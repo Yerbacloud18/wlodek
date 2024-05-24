@@ -1,0 +1,19 @@
+:root{
+    --color-100: #e6e9fa;
+    --color-200: #9fa7d6;
+    --color-300: #5e70d6;
+    --color-400: #3d488a;
+    --color-500: #2241f7;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    background-color: #fff;
+}
+
+.container{
+    width: 96%;
+    padding: 0 2%;
+    margin: 0 auto;
+}
